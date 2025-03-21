@@ -9,7 +9,8 @@
 - 2005 - Certificate of Secondary Education, Collège Evangélique de N'Djaména, Chad.
 
 # Key Work Experience
-* July 2024 to Present: **AIMS-NISR Senior Data Scientist**
+* July 2024 - *Present*: **AIMS-NISR Senior Data Scientist**
+
   Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute for Mathematical Sciences) project on Air pollution and respiratory illnesses in Rwanda.
   - Cleaning/Merging data from different sources
   - Machine Learning models for count data
@@ -17,23 +18,19 @@
   - Capacity Building Initiative at the National Institute of Statistics of Rwanda (Department of Data Revolution and Big Data (DR&BD))
   - Lecturer in AIMS Centres.
 
+* September 2023 - June 2024: **Teaching Assistant at AIMS (Rwanda)**
+
+  Delivered comprehensive assistance on mathematical theories and principles to students.
+  - Fostered a positive and engaging learning environment that encourages active participation.
+  - Integrated practical programming skills into the curriculum, emphasizing their relevance in modern mathematics.
+  - Utilized simulated or real-world data sets to illustrate the practical applications of mathematical concepts.
+  - Assessed student progress through assignments, examinations, and projects.
+  - Provided constructive feedback and support to students to help them succeed academically.
+  - Collaborated with colleagues to develop innovative teaching materials and strategies.
 
 
 
-<!-- September 2023
-June 2024
-Teaching Assistant at AIMS (Rwanda)
-Delivered comprehensive assistance on mathematical theories and principles to students.
-Fostered a positive and engaging learning environment that encourages active participation.
-Integrated practical programming skills into the curriculum, emphasizing their relevance in modern mathematics.
-Utilized simulated or real-world data sets to illustrate the practical applications of mathematical concepts.
-Assessed student progress through assignments, examinations, and projects.
-Provided constructive feedback and support to students to help them succeed academically.
-Collaborated with colleagues to develop innovative teaching materials and strategies.
-
-
-
-
+<!---
 September 2022
 August 2023
 Post-doctoral researcher, University of Mayotte.
