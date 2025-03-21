@@ -18,6 +18,7 @@ Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute fo
   - Capacity Building Initiative at the National Institute of Statistics of Rwanda (Department of Data Revolution and Big Data (DR&BD))
   - Lecturer in AIMS Centres.
 
+
 * September 2023 - June 2024: **Teaching Assistant at AIMS (Rwanda)**
   - Delivered comprehensive assistance on mathematical theories and principles to students.
   - Fostered a positive and engaging learning environment that encourages active participation.
@@ -26,6 +27,7 @@ Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute fo
   - Assessed student progress through assignments, examinations, and projects.
   - Provided constructive feedback and support to students to help them succeed academically.
   - Collaborated with colleagues to develop innovative teaching materials and strategies.
+
 
 * September 2022 - August 2023: **Post-doctoral researcher, University of Mayotte**
 
@@ -41,6 +43,7 @@ Tools:
   - Collaboration with other researchers
   - Taught numerical algebra to undergraduate students.
 
+
 * November 2020 - July 2022: **Teaching Assistant at AIMS (Senegal)**
   - Conducted tutorial and lab sessions with master's students, focusing on problem-solving, project management, and proficient programming in R/Python languages, SageMath, and Octave.
   - Utilized GitHub for version control and demonstrated expertise in Linux commands.
@@ -51,6 +54,7 @@ Tools:
   - Led the development and maintenance of the academic activities book, ensuring precise documentation and adherence to institutional standards.
   - Mentored and guided students in essay writing, contributing to their academic growth and success.
 
+
 * March 2020 - November 2020: **Statistician/Economist consultant, Department of Studies and Forecasting of the Ministry of Finance and Budget, Chad.**
 
 I contributed to the elaboration of 
@@ -58,10 +62,12 @@ I contributed to the elaboration of
   - the Annual Performance Project Report (PAP in French), and
   - the Medium Term Expenditure Framework (MTEF)
 
+
 * February 2019 - March 2020: **Consultant at the Department of Economic Statistics at the Institut National de la Statistique, des Etudes Economiques et Démographiques (INSEED, Chad)**
   - Managed data collection and processing for calculating the Construction cost index in Chad.
   - Monitored the data collection and evaluation of data quality.
   - Built R Shiny dashboards for data entry and visualization for the Construction Cost Index (CCI) project.
+
 
 * January 2020 - November 2020: **Part-time Lecturer in Mathematics at the Ecole Nationale des Technologies de l’Information et de la Communication (ENASTIC, Chad).**
 
