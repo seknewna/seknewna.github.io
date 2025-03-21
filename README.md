@@ -9,7 +9,7 @@
 - 2005 - Certificate of Secondary Education, Collège Evangélique de N'Djaména, Chad.
 
 # Work Experience
-## July 2024 - *Present*: AIMS-NISR Senior Data Scientist
+## July 2024 - *Present*: Senior Data Scientist, [AIMS RIC](https://aims.ac.rw/about-the-research-centre/) & [NISR](https://www.statistics.gov.rw/), Rwanda.
 
 Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute for Mathematical Sciences) project on Air pollution and respiratory illnesses in Rwanda.
   - Cleaning/Merging data from different sources
@@ -18,7 +18,7 @@ Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute fo
   - Capacity Building Initiative at the National Institute of Statistics of Rwanda (Department of Data Revolution and Big Data (DR&BD))
   - Lecturer in AIMS Centres.
 
-## September 2023 - June 2024: Teaching Assistant at AIMS (Rwanda)
+## September 2023 - June 2024: Teaching Assistant, AIMS (Rwanda)
   - Delivered comprehensive assistance on mathematical theories and principles to students.
   - Fostered a positive and engaging learning environment that encourages active participation.
   - Integrated practical programming skills into the curriculum, emphasizing their relevance in modern mathematics.
@@ -42,7 +42,7 @@ Tools:
   - Taught numerical algebra to undergraduate students.
 
 
-## November 2020 - July 2022: Teaching Assistant at AIMS (Senegal)
+## November 2020 - July 2022: Teaching Assistant, AIMS (Senegal)
   - Conducted tutorial and lab sessions with master's students, focusing on problem-solving, project management, and proficient programming in R/Python languages, SageMath, and Octave.
   - Utilized GitHub for version control and demonstrated expertise in Linux commands.
   - Ensured accurate marking and maintained strict confidentiality of student records.
@@ -52,7 +52,7 @@ Tools:
   - Led the development and maintenance of the academic activities book, ensuring precise documentation and adherence to institutional standards.
   - Mentored and guided students in essay writing, contributing to their academic growth and success.
 
-## March 2020 - November 2020: Statistician/Economist consultant, Department of Studies and Forecasting of the Ministry of Finance and Budget, Chad.
+## March 2020 - November 2020: Statistician, Department of Studies and Forecasting of the Ministry of Finance and Budget, Chad.
 
 I contributed to the elaboration of 
   - the International Aid data analysis,
