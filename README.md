@@ -8,8 +8,8 @@
 - 2008 - Associate degree in Mathematics & Physics, Faculty of Science and Technology, University of Bamako, Mali.
 - 2005 - Certificate of Secondary Education, Collège Evangélique de N'Djaména, Chad.
 
-# Key Work Experience
-* July 2024 - *Present*: **AIMS-NISR Senior Data Scientist**
+# Work Experience
+## July 2024 - *Present*: AIMS-NISR Senior Data Scientist
 
 Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute for Mathematical Sciences) project on Air pollution and respiratory illnesses in Rwanda.
   - Cleaning/Merging data from different sources
@@ -18,8 +18,7 @@ Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute fo
   - Capacity Building Initiative at the National Institute of Statistics of Rwanda (Department of Data Revolution and Big Data (DR&BD))
   - Lecturer in AIMS Centres.
 
-
-* September 2023 - June 2024: **Teaching Assistant at AIMS (Rwanda)**
+## September 2023 - June 2024: Teaching Assistant at AIMS (Rwanda)
   - Delivered comprehensive assistance on mathematical theories and principles to students.
   - Fostered a positive and engaging learning environment that encourages active participation.
   - Integrated practical programming skills into the curriculum, emphasizing their relevance in modern mathematics.
@@ -28,8 +27,7 @@ Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute fo
   - Provided constructive feedback and support to students to help them succeed academically.
   - Collaborated with colleagues to develop innovative teaching materials and strategies.
 
-
-* September 2022 - August 2023: **Post-doctoral researcher, University of Mayotte**
+## September 2022 - August 2023: Post-doctoral researcher, University of Mayotte.
 
 Project name: On  Spatio-temporal risk management using mosquito count data. 
 
@@ -44,7 +42,7 @@ Tools:
   - Taught numerical algebra to undergraduate students.
 
 
-* November 2020 - July 2022: **Teaching Assistant at AIMS (Senegal)**
+## November 2020 - July 2022: Teaching Assistant at AIMS (Senegal)
   - Conducted tutorial and lab sessions with master's students, focusing on problem-solving, project management, and proficient programming in R/Python languages, SageMath, and Octave.
   - Utilized GitHub for version control and demonstrated expertise in Linux commands.
   - Ensured accurate marking and maintained strict confidentiality of student records.
@@ -54,70 +52,51 @@ Tools:
   - Led the development and maintenance of the academic activities book, ensuring precise documentation and adherence to institutional standards.
   - Mentored and guided students in essay writing, contributing to their academic growth and success.
 
-
-* March 2020 - November 2020: **Statistician/Economist consultant, Department of Studies and Forecasting of the Ministry of Finance and Budget, Chad.**
+## March 2020 - November 2020: Statistician/Economist consultant, Department of Studies and Forecasting of the Ministry of Finance and Budget, Chad.
 
 I contributed to the elaboration of 
   - the International Aid data analysis,
   - the Annual Performance Project Report (PAP in French), and
   - the Medium Term Expenditure Framework (MTEF)
 
-
-* February 2019 - March 2020: **Consultant at the Department of Economic Statistics at the Institut National de la Statistique, des Etudes Economiques et Démographiques (INSEED, Chad)**
+## February 2019 - March 2020: Consultant at the Department of Economic Statistics at the Institut National de la Statistique, des Etudes Economiques et Démographiques (INSEED, Chad)
   - Managed data collection and processing for calculating the Construction cost index in Chad.
   - Monitored the data collection and evaluation of data quality.
   - Built R Shiny dashboards for data entry and visualization for the Construction Cost Index (CCI) project.
 
-
-* January 2020 - November 2020: **Part-time Lecturer in Mathematics at the Ecole Nationale des Technologies de l’Information et de la Communication (ENASTIC, Chad).**
+## January 2020 - November 2020: Part-time Lecturer in Mathematics at the Ecole Nationale des Technologies de l’Information et de la Communication (ENASTIC, Chad).
 
 Taught courses: 
   - Linear Algebra
   - Probability and Statistics
   - Data Analysis using Excel.
 
-
-
-
-September 2018
-December 2018
-Part-time Lecturer at JKUAT Karen Campus. 
+## September 2018 - December 2018: Part-time Lecturer at JKUAT Karen Campus. 
 Taught linear algebra, calculus, computational statistics with R, and the analysis of financial data to undergraduate students.
 
+## November 2017 - November 2020: Data Scientist Freelancer/Consultant
+  - Engaged in a diverse array of projects, including
+  - Data analysis
+  - Machine learning
+  - Natural Language Processing
+  - Time series analysis
+  - Big data processing
+  - Data Engineering
+  - Custom application development
+  - Industry-specific endeavours
 
+## February 2017 - June 2017: Data Analytics Consultant at Data-Fintech (Kenya)
+  - Customer insights for policy making through Data Analysis from a telecom company.
+  - Report productions
 
+## October 2013 - February 2015: Lecturer at Université Polytechnique de Mongo (UPM, Chad)
 
-November 2017
-November 2020
-Data Scientist Freelancer/Consultant
-Engaged in a diverse array of projects, including 
-Data analysis
-Machine learning
-Natural Language Processing
-Time series analysis
-Big data processing
-Data Engineering
-Custom application development
-Industry-specific endeavours
+* nTaught courses: 
+  - Probability and Statistics
+  - Ordinary Differential Equations
 
-
-
-
-February 2017
-June 2017
-Data Analytics Consultant at Data-Fintech (Kenya)
-Customer insights for policy making through Data Analysis from a telecom company.
-Report productions
-
-
-
-
-October 2013
-February 2015
-Lecturer at Université Polytechnique de Mongo (UPM, Chad)
-Lecturer in Mathematics (Probability and Statistics, Ordinary Differential Equations, 
-Interim HOD of Industrial Engineering and Maintenance
-Undergraduate Thesis supervision
+* Played the role of Interim Head Of Department of Industrial Engineering and Maintenance
+* Undergraduate Thesis supervision
 
 
 
@@ -136,4 +115,3 @@ September 2011
 Intern at Airtel Chad
 Participated in a study on customer satisfaction
 Worked on the estimations of losses due to network failures
- -->
