@@ -91,27 +91,17 @@ Taught linear algebra, calculus, computational statistics with R, and the analys
 
 ## October 2013 - February 2015: Lecturer at Université Polytechnique de Mongo (UPM, Chad)
 
-* nTaught courses: 
+* Taught courses: 
   - Probability and Statistics
   - Ordinary Differential Equations
 
-* Played the role of Interim Head Of Department of Industrial Engineering and Maintenance
+* Played the role of Interim Head Of the Department of Industrial Engineering and Maintenance
 * Undergraduate Thesis supervision
 
+## June 2012 - November 2012: Academic Internship at Polytech-Valor
+* Production of my Master’s thesis
+* Conducted data processing, exploration, and Machine Learning with R, Excel, and MySQL software.
 
-
-
-June 2012
-November 2012
-Intern at Polytech-Valor
-Production of my Master’s thesis
-Conducted data processing, exploration, and modelling using statistical methods with R, Excel, and MySQL software.
-
-
-
-
-August 2011
-September 2011
-Intern at Airtel Chad
-Participated in a study on customer satisfaction
-Worked on the estimations of losses due to network failures
+## August 2011 - September 2011: Intern at Airtel Chad
+* Participated in a study on customer satisfaction
+* Worked on the estimations of losses due to network failures
