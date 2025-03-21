@@ -11,7 +11,7 @@
 # Key Work Experience
 * July 2024 - *Present*: **AIMS-NISR Senior Data Scientist**
 
-  Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute for Mathematical Sciences) project on Air pollution and respiratory illnesses in Rwanda.
+Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute for Mathematical Sciences) project on Air pollution and respiratory illnesses in Rwanda.
   - Cleaning/Merging data from different sources
   - Machine Learning models for count data
   - Reporting
@@ -29,39 +29,30 @@
 
 * September 2022 - August 2023: **Post-doctoral researcher, University of Mayotte**
 
-  Project name: On  Spatio-temporal risk management using mosquito count data. 
+Project name: On  Spatio-temporal risk management using mosquito count data. 
 
-  Key results:
+Key results:
   * Identification of factors influencing the proliferation of mosquitos in Mayotte
   * Social contact matrix estimation using predictive methods
 
-  Tools:
-
+Tools:
   - Spatial data analyses and modelling
   - Getting data and cleaning using R software or Python.
   - Collaboration with other researchers
   - Taught numerical algebra to undergraduate students.
 
+* November 2020 - July 2022: **Teaching Assistant at AIMS (Senegal)**
+  - Conducted tutorial and lab sessions with master's students, focusing on problem-solving, project management, and proficient programming in R/Python languages, SageMath, and Octave.
+  - Utilized GitHub for version control and demonstrated expertise in Linux commands.
+  - Ensured accurate marking and maintained strict confidentiality of student records.
+  - Utilized R programming skills to generate transcripts, enhancing academic administration efficiency.
+  - Delivered engaging instruction in subjects including Statistics, LaTeX, and Introduction to R and Python, fostering a conducive learning environment.
+  - Successfully managed the coordination of talks and seminars, facilitating academic discourse and knowledge sharing.
+  - Led the development and maintenance of the academic activities book, ensuring precise documentation and adherence to institutional standards.
+  - Mentored and guided students in essay writing, contributing to their academic growth and success.
 
+* March 2020 - November 2020: **Statistician/Economist consultant, Department of Studies and Forecasting of the Ministry of Finance and Budget, Chad.**
 
-
-November 2020
-July 2022
-Teaching Assistant at AIMS (Senegal)
-Conducted tutorial and lab sessions with master's students, focusing on problem-solving, project management, and proficient programming in R/Python languages, SageMath, and Octave. Utilized GitHub for version control and demonstrated expertise in Linux commands.
-Ensured accurate marking and maintained strict confidentiality of student records.
-Utilized R programming skills to generate transcripts, enhancing academic administration efficiency.
-Delivered engaging instruction in subjects including Statistics, LaTeX, and Introduction to R and Python, fostering a conducive learning environment.
-Successfully managed the coordination of talks and seminars, facilitating academic discourse and knowledge sharing.
-Led the development and maintenance of the academic activities book, ensuring precise documentation and adherence to institutional standards.
-Mentored and guided students in essay writing, contributing to their academic growth and success.
-
-
-
-
-March 2020
-November 2020
-Statistician/Economist consultant, Department of Studies and Forecasting of the Ministry of Finance and Budget, Chad.
 Engaged in the elaboration of
 the International Aid data analysis,
 the Annual Performance Project Report (PAP in French), and
