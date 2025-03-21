@@ -58,22 +58,17 @@ I contributed to the elaboration of
   - the Annual Performance Project Report (PAP in French), and
   - the Medium Term Expenditure Framework (MTEF)
 
+* February 2019 - March 2020: **Consultant at the Department of Economic Statistics at the Institut National de la Statistique, des Etudes Economiques et Démographiques (INSEED, Chad)**
+  - Managed data collection and processing for calculating the Construction cost index in Chad.
+  - Monitored the data collection and evaluation of data quality.
+  - Built R Shiny dashboards for data entry and visualization for the Construction Cost Index (CCI) project.
 
+* January 2020 - November 2020: **Part-time Lecturer in Mathematics at the Ecole Nationale des Technologies de l’Information et de la Communication (ENASTIC, Chad).**
 
-
-February 2019
-March 2020
-Consultant at the Department of Economic Statistics at the Institut National de la Statistique, des Etudes Economiques et Démographiques (INSEED, Chad)
-Managed data collection and processing for calculating the Construction cost index in Chad.
-Monitored the data collection and evaluation of data quality.
-Shiny dashboard for data entry and visualization.
-
-
-
-
-January 2020 November 2020
-Part-time Lecturer in Mathematics at the Ecole Nationale des Technologies de l’Information et de la Communication (ENASTIC, Chad).
-Taught undergraduate students Linear Algebra, Probability and Statistics,  and Data Analysis.
+Taught courses: 
+  - Linear Algebra
+  - Probability and Statistics
+  - Data Analysis using Excel.
 
 
 
