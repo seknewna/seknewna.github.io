@@ -75,7 +75,7 @@ Taught courses:
 Taught linear algebra, calculus, computational statistics with R, and the analysis of financial data to undergraduate students.
 
 ## November 2017 - November 2020: Data Scientist Freelancer/Consultant
-  - Engaged in a diverse array of projects, including
+Engaged in a diverse array of projects, including
   - Data analysis
   - Machine learning
   - Natural Language Processing
