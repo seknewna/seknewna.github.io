@@ -18,7 +18,7 @@ Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute fo
   - Capacity Building Initiative at the National Institute of Statistics of Rwanda (Department of Data Revolution and Big Data (DR&BD))
   - Lecturer in AIMS Centres.
 
-## September 2023 - June 2024: Teaching Assistant, [AIMS](), Rwanda.
+## September 2023 - June 2024: Teaching Assistant, [AIMS](https://aims.ac.rw/), Rwanda.
   - Delivered comprehensive assistance on mathematical theories and principles to students.
   - Fostered a positive and engaging learning environment that encourages active participation.
   - Integrated practical programming skills into the curriculum, emphasizing their relevance in modern mathematics.
@@ -95,8 +95,8 @@ Engaged in a diverse array of projects, including
   - Probability and Statistics
   - Ordinary Differential Equations
 
-* Played the role of Interim Head Of the Department of Industrial Engineering and Maintenance
-* Undergraduate Thesis supervision
+* Played the role of Interim Head Of the Department of Industrial Engineering and Maintenance.
+* Undergraduate Thesis supervision.
 
 ## June 2012 - November 2012: Academic Internship at Polytech-Valor
 * Production of my Master’s thesis
