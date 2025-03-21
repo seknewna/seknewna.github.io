@@ -85,11 +85,11 @@ Engaged in a diverse array of projects, including
   - Custom application development
   - Industry-specific endeavours
 
-## February 2017 - June 2017: Data Analytics Consultant at Data-Fintech (Kenya)
+## February 2017 - June 2017: Data Analytics Consultant at Data-Fintech, Kenya.
   - Customer insights for policy making through Data Analysis from a telecom company.
   - Report productions
 
-## October 2013 - February 2015: Lecturer at Université Polytechnique de Mongo (UPM, Chad)
+## October 2013 - February 2015: Lecturer at Université Polytechnique de Mongo, Chad.s
 
 * Taught courses: 
   - Probability and Statistics
