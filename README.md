@@ -19,8 +19,7 @@
   - Lecturer in AIMS Centres.
 
 * September 2023 - June 2024: **Teaching Assistant at AIMS (Rwanda)**
-
-  Delivered comprehensive assistance on mathematical theories and principles to students.
+  - Delivered comprehensive assistance on mathematical theories and principles to students.
   - Fostered a positive and engaging learning environment that encourages active participation.
   - Integrated practical programming skills into the curriculum, emphasizing their relevance in modern mathematics.
   - Utilized simulated or real-world data sets to illustrate the practical applications of mathematical concepts.
