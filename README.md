@@ -42,7 +42,7 @@ Tools:
   - Taught numerical algebra to undergraduate students.
 
 
-## November 2020 - July 2022: Teaching Assistant, AIMS (Senegal)
+## November 2020 - July 2022: Teaching Assistant, [AIMS](https://aims-senegal.org/), Senegal.
   - Conducted tutorial and lab sessions with master's students, focusing on problem-solving, project management, and proficient programming in R/Python languages, SageMath, and Octave.
   - Utilized GitHub for version control and demonstrated expertise in Linux commands.
   - Ensured accurate marking and maintained strict confidentiality of student records.
@@ -52,7 +52,7 @@ Tools:
   - Led the development and maintenance of the academic activities book, ensuring precise documentation and adherence to institutional standards.
   - Mentored and guided students in essay writing, contributing to their academic growth and success.
 
-## March 2020 - November 2020: Statistician, Department of Studies and Forecasting of the Ministry of Finance and Budget, Chad.
+## March 2020 - November 2020: Statistician, Ministry of Finance and Budget, Chad.
 
 I contributed to the elaboration of 
   - the International Aid data analysis,
@@ -64,7 +64,7 @@ I contributed to the elaboration of
   - Monitored the data collection and evaluation of data quality.
   - Built R Shiny dashboards for data entry and visualization for the Construction Cost Index (CCI) project.
 
-## January 2020 - November 2020: Part-time Lecturer in Mathematics at the Ecole Nationale des Technologies de l’Information et de la Communication (ENASTIC, Chad).
+## January 2020 - November 2020: Part-time Lecturer, Ecole Nationale des Technologies de l’Information et de la Communication, Chad.
 
 Taught courses: 
   - Linear Algebra
