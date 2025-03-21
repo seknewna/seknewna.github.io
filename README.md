@@ -59,7 +59,7 @@ I contributed to the elaboration of
   - the Annual Performance Project Report (PAP in French), and
   - the Medium Term Expenditure Framework (MTEF)
 
-## February 2019 - March 2020: Consultant at the Department of Economic Statistics at the Institut National de la Statistique, des Etudes Economiques et Démographiques (INSEED, Chad)
+## February 2019 - March 2020: Consultant at [INSEED](https://www.inseed.td/), Chad.
   - Managed data collection and processing for calculating the Construction cost index in Chad.
   - Monitored the data collection and evaluation of data quality.
   - Built R Shiny dashboards for data entry and visualization for the Construction Cost Index (CCI) project.
