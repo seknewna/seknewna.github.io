@@ -27,21 +27,20 @@
   - Provided constructive feedback and support to students to help them succeed academically.
   - Collaborated with colleagues to develop innovative teaching materials and strategies.
 
+* September 2022 - August 2023: **Post-doctoral researcher, University of Mayotte**
 
+  Project name: On  Spatio-temporal risk management using mosquito count data. 
 
-<!---
-September 2022
-August 2023
-Post-doctoral researcher, University of Mayotte.
-Project name: On  Spatio-temporal risk management using mosquito count data. 
-Key results:
-Discovery of factors influencing the proliferation of mosquitos in Mayotte
-Social contact matrix estimation using predictive methods
-Tools:
-Spatial data analyses and modelling
-Getting data and cleaning using R software or Python.
-Collaboration with other researchers 
-Teaching.
+  Key results:
+  * Identification of factors influencing the proliferation of mosquitos in Mayotte
+  * Social contact matrix estimation using predictive methods
+
+  Tools:
+
+  - Spatial data analyses and modelling
+  - Getting data and cleaning using R software or Python.
+  - Collaboration with other researchers
+  - Taught numerical algebra to undergraduate students.
 
 
 
