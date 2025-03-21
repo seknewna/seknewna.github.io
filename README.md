@@ -27,7 +27,7 @@ Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute fo
   - Provided constructive feedback and support to students to help them succeed academically.
   - Collaborated with colleagues to develop innovative teaching materials and strategies.
 
-## September 2022 - August 2023: Post-doctoral researcher, University of Mayotte.
+## September 2022 - August 2023: Postdoctoral Researcher, [University of Mayotte](https://www.univ-mayotte.fr/fr/index.html), Mayotte.
 
 Project name: On  Spatio-temporal risk management using mosquito count data. 
 
