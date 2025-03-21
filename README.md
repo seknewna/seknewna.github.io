@@ -53,10 +53,10 @@ Tools:
 
 * March 2020 - November 2020: **Statistician/Economist consultant, Department of Studies and Forecasting of the Ministry of Finance and Budget, Chad.**
 
-Engaged in the elaboration of
-the International Aid data analysis,
-the Annual Performance Project Report (PAP in French), and
-the Medium Term Expenditure Framework (MTEF)
+I contributed to the elaboration of 
+  - the International Aid data analysis,
+  - the Annual Performance Project Report (PAP in French), and
+  - the Medium Term Expenditure Framework (MTEF)
 
 
 
