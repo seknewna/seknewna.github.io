@@ -2,7 +2,7 @@
 
 
 # Education
-## 2018 - Doctorate of Philosophy in Mathematics (Statistics Option)
+- 2018 - Doctorate of Philosophy in Mathematics (Statistics Option)
 
 
 
