@@ -18,7 +18,7 @@ Researcher in the ONS (Office National Statistic, UK)-AIMS (African Institute fo
   - Capacity Building Initiative at the National Institute of Statistics of Rwanda (Department of Data Revolution and Big Data (DR&BD))
   - Lecturer in AIMS Centres.
 
-## September 2023 - June 2024: Teaching Assistant, AIMS (Rwanda)
+## September 2023 - June 2024: Teaching Assistant, [AIMS](), Rwanda.
   - Delivered comprehensive assistance on mathematical theories and principles to students.
   - Fostered a positive and engaging learning environment that encourages active participation.
   - Integrated practical programming skills into the curriculum, emphasizing their relevance in modern mathematics.
