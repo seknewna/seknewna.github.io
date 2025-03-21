@@ -3,7 +3,6 @@ logo: files/img/logo.jpeg
 description: Senior Data Scientist
 show_downloads: false
 theme: jekyll-theme-minimal
-
 header_pages:
   - AboutMe.md
   - Projects.md
