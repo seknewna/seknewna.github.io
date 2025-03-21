@@ -1,9 +1,9 @@
-## Data Scientist
+# Data Scientist
 
 
-## Education
-### 2018 - Doctorate of Philosophy in Mathematics (Statistics Option)
+# Education
+## 2018 - Doctorate of Philosophy in Mathematics (Statistics Option)
 
 
 
-## Key Work Experience
+# Key Work Experience
